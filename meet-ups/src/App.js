@@ -2,7 +2,7 @@ import AllMeetupsPage from "./pages/AllMeetups";
 import NewMeetupsPage from "./pages/NewMeetups";
 import FavouritesPage from "./pages/Favourites";
 import { Routes, Route } from "react-router-dom";
-import MainNavigation from "./components/layout/layout/MainNavigation";
+import MainNavigation from "./components/layout/layout/layout/MainNavigation";
 
 function App() {
   return (
